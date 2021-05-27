@@ -7,8 +7,8 @@ function Home() {
             {/* icons that will stay stuck to the left hand side of the website  */}
             <div className="Contact-icons">
                 <ul className="Contact-icons-list">
-                    <a href="https://github.com/anikachoudhury" target="_blank"><i class="fab fa-github icon fa-lg"></i></a>
-                    <a href="https://www.linkedin.com/in/anika-choudhury-469b17212" target="_blank"><i class="fab fa-linkedin-in icon fa-lg"></i></a>
+                    <a href="https://github.com/anikachoudhury" target="_blank" rel="noreferrer"><i class="fab fa-github icon fa-lg"></i></a>
+                    <a href="https://www.linkedin.com/in/anika-choudhury-469b17212" target="_blank" rel="noreferrer"><i class="fab fa-linkedin-in icon fa-lg"></i></a>
                     <a href="mailto:anikachoudhury010@gmail.com"><i class="fas fa-at icon fa-lg"></i></a>
                 </ul>
             </div>
