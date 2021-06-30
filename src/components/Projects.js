@@ -4,10 +4,10 @@ import covid from '../images/covid-tracker.png';
 
 function Projects() {
     return (
-        <div className="Projects">
+        <div className="Projects" id="projects">
             <div className="numbered-heading-two"><span id="numbered-heading-number">02.</span> My Projects</div>
 
-            <a href="https://covid-tracker-three-umber.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://covid-tracker-ani.vercel.app/" target="_blank" rel="noreferrer">
                 <div className="Projects-cards">
                     <img src={covid} alt="a covid-19 tracker"></img>
                     <div className="Projects-cards-text">
