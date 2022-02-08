@@ -1,6 +1,6 @@
 import React from 'react';
 import './Projects.css';
-import covid from '../images/covid-tracker.png';
+// import covid from '../images/covid-tracker.png';
 
 function Projects() {
     return (
