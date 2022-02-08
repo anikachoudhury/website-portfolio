@@ -15,6 +15,11 @@ function About() {
                         <li>JavaScript (ES6+)</li>
                         <li>React</li>
                         <li>Python</li>
+<<<<<<< HEAD
+                        <li>Java</li>
+                        <li>Node.js</li>
+=======
+>>>>>>> 470b755c21b02daf68e31a5a98a55dff5ea9464f
                         <li>HTML</li>
                         <li>CSS</li>
                     </ul>
