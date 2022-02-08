@@ -13,6 +13,9 @@ function About() {
                     <ul className="tech-list">
                         <li>JavaScript (ES6+)</li>
                         <li>React</li>
+                        <li>Python</li>
+                        <li>Java</li>
+                        <li>Node.js</li>
                         <li>HTML</li>
                         <li>CSS</li>
                     </ul>
